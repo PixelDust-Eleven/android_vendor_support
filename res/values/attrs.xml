@@ -24,4 +24,11 @@
         <attr name="showReset" format="boolean" />
     </declare-styleable>
 
+    <declare-styleable name="SecureSettingsSwitch">
+        <attr name="initialValue" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="SystemSettingsSwitch">
+        <attr name="initialValue" format="integer" />
+    </declare-styleable>
 </resources>
