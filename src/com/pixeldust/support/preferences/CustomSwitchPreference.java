@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.abc.support.preferences;
+package com.pixeldust.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
 import androidx.preference.SwitchPreference;
 
-import com.abc.support.R;
+import com.pixeldust.support.R;
 
 public class CustomSwitchPreference extends SwitchPreference {
 
